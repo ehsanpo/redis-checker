@@ -1,0 +1,5 @@
+PassengerBaseURI /
+PassengerAppRoot /home/exempelse/myprojects/node-test-1
+
+PassengerAppType node
+PassengerStartupFile index.js

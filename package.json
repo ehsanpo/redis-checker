@@ -1,0 +1,27 @@
+{
+  "name": "redis-checker",
+  "version": "1.0.0",
+  "description": "check if redis is live, if not send massage to Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsanpo/redis-checker.git"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "E.P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehsanpo/redis-checker/issues"
+  },
+  "homepage": "https://github.com/ehsanpo/redis-checker#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "redis": "^2.8.0",
+    "slack-node": "^0.1.8"
+  }
+}
