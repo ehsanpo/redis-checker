@@ -1,5 +1,5 @@
 PassengerBaseURI /
-PassengerAppRoot /home/exempelse/myprojects/node-test-1
+PassengerAppRoot /home/ggresell/redis.ggreseller.hemsida.eu/
 
 PassengerAppType node
 PassengerStartupFile index.js
